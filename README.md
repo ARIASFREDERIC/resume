@@ -1,12 +1,6 @@
-## [Work Experience]([https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmy.cyber-neurones.org%2FPROFESSION%2F&data=05%7C02%7Cfrederic.arias%40resideo.com%7Ccc97ba84a5fd4ca389fe08dc1be89f01%7C6ebe80ab81af47a1851df70413b65873%7C0%7C0%7C638415935134534967%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C62000%7C%7C%7C&sdata=PyyZ7DUDODMJ87nakbQFGkrhgQI0YVC8fnYXBSxeuvY%3D&reserved=0](https://nam12.safelinks.protection.outlook.com/?url=https%3A%2F%2Fmy.cyber-neurones.org%2FPROFESSION%2F&data=05|02|frederic.arias@resideo.com|cc97ba84a5fd4ca389fe08dc1be89f01|6ebe80ab81af47a1851df70413b65873|0|0|638415935134534967|Unknown|TWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D|62000|||&sdata=PyyZ7DUDODMJ87nakbQFGkrhgQI0YVC8fnYXBSxeuvY%3D&reserved=0))
+## [Work Experience]
 
- 
-
-### *Since Jan 2001* [Secom - Honeywell - Resideo : DevSecOps Linux for
-
-security]
-
- 
+### *Since Jan 2001* [Secom - Honeywell - Resideo : DevSecOps Linux for security]
 
 I develop an alarm receiver for security ( Name : PE1800IP or PE1800XS or PE1800IP-S ). This server it's gateway between external Panel, or provider SMS, or provider VOIP, ... and internal software ( CMS ) who manage the customer. So lot of evolution during 22 years, evolution with télécom : PRI to VOIP, API for SMS providers, also protocol for alarm and encryption. The software works under Oracle Linux , Debian , Ubuntu .
 
