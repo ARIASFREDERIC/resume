@@ -53,24 +53,17 @@ In fact I do several task :
 - Documentation : Markdown, Confluence.
 - API : **PostgreSQL**, MySQL, RabbitMQ, Mosquitto, Redis, ... and all Linux API for server : pthread, semaphore, ... .
 
- 
 
 #### Ops for Linux :
 
- 
 
 - Create/Deploy/install : VirtualBox , ESX, Proxmox , **Docker**, **Kubernetes**.
-
 - Install Configure :
-
    - Apache, Httpd, Nginx, Sendmail, Postfix, PostgreSQL, RabbitMQ,
-
    - **Grafana**, Prometheus
-
 ​     - Dev Exporter for Prometheus.
 
 - Install & configure :
-
    - **Jenkins**
 
 ​     - Pipeline.
@@ -130,14 +123,14 @@ In fact I do several task :
 ## Hobbies
 
 
-- Trail , 
-- [Gravel Bike]() ,
-- [Trekking]() ,
+- [Trail](https://www.cyber-neurones.org/category/loisirs/courses/trail/) , 
+- [Gravel Bike](https://www.cyber-neurones.org/tag/gravel/) ,
+- [Trekking](https://www.cyber-neurones.org/category/loisirs/randonnee/) ,
 - DevSecOps under Linux :
     - [Ubuntu]() ,
     - [Debian](),
     - [Raspberry](),
-- [NextCloud](),
-- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), Proxmox, [Python](), Tensorflow & OpenCV
+- [NextCloud](https://www.cyber-neurones.org/tag/nextcloud/),
+- [Wordpress](https://www.cyber-neurones.org/), [Humhub](https://www.humhub.com/en/), [Home Assistant](https://www.home-assistant.io/), [Proxmox](https://www.proxmox.com/en/), [Python](), Tensorflow & OpenCV
 - [Competition ]().
 - [OpenDataGouv]()
